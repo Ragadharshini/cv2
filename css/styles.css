@@ -1,0 +1,166 @@
+/*******************TAG*******************/
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merienda One', cursive;
+
+}
+h1{
+  margin-top: 0;
+  color: violet;
+  font-family: 'Secular One', sans-serif;
+}
+h2{
+    color:violet;
+    font-family: 'Secular One', sans-serif;
+}
+h3{
+  color:#590696;
+}
+p{
+  color:#1B2430;
+  font-weight:bold;
+  line-height: 2;
+}
+
+
+/*******************CLASS*******************/
+.hr1{
+  border: dotted purple 6px;
+  border-bottom: none;
+  width: 5%;
+  margin:70px auto;
+}
+.hr2{
+  border: dotted purple 6px;
+  border-bottom: none;
+  width: 5%;
+  margin:50px auto 90px auto;
+}
+.Top-Container{
+  background-color: #1B2430;
+  position: relative;
+  padding-top: 100px;
+  font-family: 'Merienda One', cursive;
+}
+.MainImage{
+  height: 80vh;
+}
+.Magic1{
+  height:40vh;
+  width:30vw;
+  position: absolute;
+  top:150px;
+  right:30px;
+}
+.Magic2{
+  height:40vh;
+  width:30vw;
+  position: absolute;
+  top:150px;
+  left:30px;
+}
+.Middle-Container{
+  background-color: #FFAB73;
+  padding-bottom: 2px;
+}
+.Hello{
+  color: #180A0A;
+  font-family: 'Merienda One', cursive;
+}
+.HTMLsite{
+  color:black;
+  margin:0;
+}
+.HTMLsite:hover{
+  color:blue;
+}
+.skillhead{
+  color:#180A0A;
+  margin-top: 50px;
+  font-family: 'Merienda One', cursive;
+}
+.skill-row{
+  width:70%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.WebDevelopment{
+  float:left;
+  margin-right: 30px;
+  position:relative;
+  bottom: 50px;
+}
+.Bharathanatiyam{
+  float:right;
+  width:15%
+}
+.Cooking{
+  float:left;
+  margin-right: 30px;
+  width:28%;
+  position:relative;
+  bottom: 50px;
+}
+.Mid-Bottom-Container{
+  background-color: #FFAB73;
+  margin-bottom: none;
+  font-family: 'Merienda One', cursive;
+}
+.contact-me{
+  margin: 40px auto 60px;
+  padding-bottom: 150px;
+  margin-bottom: 0px;
+}
+.Touch-Color{
+  color:black;
+  margin-bottom: 50px;
+  font-family: 'Merienda One', cursive;
+}
+.wierd{
+  margin-bottom: 60px;
+}
+.btn {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #000000);
+  background-image: -moz-linear-gradient(top, #000000, #000000);
+  background-image: -ms-linear-gradient(top, #000000, #000000);
+  background-image: -o-linear-gradient(top, #000000, #000000);
+  background-image: linear-gradient(to bottom, #000000, #000000);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: WHITE;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0a0a0a;
+  background-image: -webkit-linear-gradient(top, #0a0a0a, #c605ed);
+  background-image: -moz-linear-gradient(top, #0a0a0a, #c605ed);
+  background-image: -ms-linear-gradient(top, #0a0a0a, #c605ed);
+  background-image: -o-linear-gradient(top, #0a0a0a, #c605ed);
+  background-image: linear-gradient(to bottom, #0a0a0a, #c605ed);
+  text-decoration: none;
+}
+.Bottom-Container{
+  background-color:#1B2430;
+  padding:50px 0 40px;
+  font-family: 'Merienda One', cursive;
+}
+.sur{
+  color:white;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+a{
+  color:white;
+  text-decoration:none;
+  margin: 40px 40px;
+}
+a:hover{
+  color:orange;
+}
